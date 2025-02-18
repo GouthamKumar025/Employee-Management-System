@@ -1,0 +1,13 @@
+# React node_modules and build files
+employee-management-system-ui/node_modules/
+employee-management-system-ui/build/
+
+# IntelliJ and Java compiled files
+employee-system-api/target/
+employee-system-api/.mvn/
+employee-system-api/*.log
+
+# Ignore IDE and environment files
+.vscode/
+.idea/
+.env
